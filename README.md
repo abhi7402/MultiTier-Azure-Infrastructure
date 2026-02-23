@@ -93,19 +93,19 @@ This project demonstrates the design and deployment of a **scalable, secure, and
 ## 📸 Screenshots
 
 ### Resource Group Overview
-> *(Add screenshot of MultiTier-Project-RG)*
+![Architecture Overview](Architecture%20Overview.png)
 
 ### Virtual Network & Subnets
-> *(Add screenshot of MultiTier-VNet Subnets)*
+![VNet and Subnets](Vnet%20anf%20subnets.png)
 
 ### Load Balancer
-> *(Add screenshot of WebApp-LoadBalancer)*
+![Load Balancer](Load%20balancer.png)
 
 ### Alert Rules
-> *(Add screenshot of CPU-High-Alert & Memory-High-Alert)*
+![Azure Monitor Alerts](Azure%20moniter.png)
 
 ### Monitoring Dashboard
-> *(Add screenshot of MultiTier-Monitoring-Dashboard with live CPU metrics)*
+![Dashboard](Dashboard.png)
 
 ---
 
